@@ -11,7 +11,7 @@ class MiApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Mi App",
+      title: "Mi App 2",
       home: Inicio(),
     );
   }
